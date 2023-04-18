@@ -6,7 +6,7 @@ count++;
 }
 }
 if(count==1){
-console.og("number is a prime");
+console.log("number is a prime");
 }
 else{
 console.log("number is not prime");
